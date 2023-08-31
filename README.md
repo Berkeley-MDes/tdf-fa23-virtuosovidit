@@ -10,6 +10,24 @@ The specific file that I’m typing into right now is the **README.md** for this
 <h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
 
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/desinv-202/wiki/3.0-Weekly-Submissions). They might look something like this: ###
+
+weeklyReport20230831.md
+---
+# Weekly Report - Week of 08/31/2023 #
+This week I used the TDF Computational Design project files to get started with Rhino and Grasshopper. As someone with no experience using computational 3D modelling software this was a good starting point to explore the space and start using Laser Cutter and 3D printing tools in the Maker space.
+
+My Process: I started with the Grasshopper and Rhino Files, learning how to use the tools using the worked example. I then spent some time defining my project scope, i.e. defining what I wanted to achieve with the stand and how it’d be useful to someone using it. I fed my design calculations into the Grasshopper interface, and generated the files to cut. I then evaluated my first laser cut and made a note of changes that’d make the design better. I gave a second cut and after I was satisfied with the results, I moved on to the 3D model. For the 3D model I took the same design considerations to generate a 3D model that’d help me, then I 3D Printed the files.
+
+Following the completion of the process, I made a note of where I wanted to take the process in the future and designed a quick mock up of an aspirational cell phone stand that I hope to laser cut this week.
+
+Complete Report is available here: [Weekly Report 1](weeklyReport20230831.md)
+
+![stand1][weekly-reports/img20230831/finalStand_1.png]
+![stand2][weekly-reports/img20230831/3D_1.png]
+
+
+
+
 ---
 # Example Report 1 - Week of 08/21/2023 #
 This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
