@@ -139,9 +139,9 @@ I want to use the MagSafe puck to enable charging the phone while using it as a 
 
 [correction]: weekly-reports/img20230831/corrections_1.png
 
-[finalStand1]: weekly-reports/img20230831/finalStand_1.png
-[finalStand2]: weekly-reports/img20230831/finalStand_2.png
-[finalStand3]: weekly-reports/img20230831/finalStand_3.png
+[finalStand1]: weekly-reports/img20230831/final_Stand_1.png
+[finalStand2]: weekly-reports/img20230831/final_stand_2.png
+[finalStand3]: weekly-reports/img20230831/final_stand_3.png
 
 [3D1]: weekly-reports/img20230831/3D_1.png
 [3D2]: weekly-reports/img20230831/3D_2.png
