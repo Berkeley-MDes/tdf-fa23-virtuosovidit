@@ -21,11 +21,8 @@ Following the completion of the process, I made a note of where I wanted to take
 
 Complete Report is available here: [Weekly Report 1](weeklyReport20230831.md)
 
-![stand1](weekly-reports/img20230831/final_Stand_1.png)
-![stand2](weekly-reports/img20230831/3D_1.png)
-
-
-
+<img width="200" alt="Laser cut Stand" src="https://raw.githubusercontent.com/Berkeley-MDes/tdf-fa23-virtuosovidit/main/weekly-reports/img20230831/final_Stand.png">
+<img width="200" alt="3D printed Stand" src="https://raw.githubusercontent.com/Berkeley-MDes/tdf-fa23-virtuosovidit/main/weekly-reports/img20230831/3D_1.png">
 
 ---
 # Example Report 1 - Week of 08/21/2023 #
