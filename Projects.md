@@ -34,18 +34,18 @@ Extra Considerations:
 
 To start with the design process I made calculations of my phone with and without a case. I also used a larger phone to support at least one more size.
 
-![measurements 1][measurements1]
-![measurements 2][measurements2]
-![measurements 3][measurements3]
-![measurements 4][measurements4]
-![measurements 5][measurements5]
+![measurements 1][measurement1]
+![measurements 2][measurement2]
+![measurements 3][measurement3]
+![measurements 4][measurement4]
+![measurements 5][measurement5]
 
 
 
 I then defined the phone dimensions to create a hypothetical device that used the optimum parameters from the reading.
 
 |Dimensions | iPhone 12 mini Without Case	| iPhone 12 mini With Case | iPhone 14 Pro without Case |
-|---------- | --------------------------: | ------------------------ |:--------------------------:|
+|---------- | --------------------------- | ------------------------ | -------------------------- |
 |Depth      | 7.71                        | 10.47                    | 8.44                       |
 |Width      | 64.44                       | 67.90                    | 71.63                      |
 |Height     | 131.77                      | 135.44                   | 147.62                     |
@@ -62,11 +62,17 @@ I baked the files, and generated illustrator files for the first laser cutting.
 ### Print
 A video of my first laser cut:
 
-///Add Video
+[![Laser Cutter Video](https://img.youtube.com/vi/1GZ71lY4LRw/0.jpg)][videoLaser]
 
 ## Observations
 
 The laser cut sheets after assembly didn’t fit firmly and the phone kept toppling over after a few seconds.
+
+
+![Design Fail 1][designFail1]
+![Design Fail 2][designFail2]
+![Design Fail 3][designFail3]
+![Design Fail 4][designFail3]
 
 
 ## Corrections
@@ -77,20 +83,32 @@ I adjusted the grasshopper file to improve on the stand and laser cut again.
 
 This time the corrections worked and the stand was able to hold both the phones in both orientations
 
+![Corrections][corrections]
+
+
+## Final Stand
+
+![Final Stand 1][finalStand1]
+![Final Stand 2][finalStand2]
+![Final Stand 3][finalStand3]
+
 ## 3D Model
 
 ### Design Considerations
 
 I adjusted the cone-height to accommodate both smaller and larger phones and made sure that the inner and diameter range was such that it allowed holding both phones. 
 
-This meant making the stand smaller, so that it could hold the smaller and 
-larger phone easily.
+This meant making the stand smaller, so that it could hold the smaller and larger phone easily.
+
+![Ultimaker][ultimaker]
 
 ### Bake and Print!
 
-///Insert Video
+[![3D Video](https://img.youtube.com/vi/6rePAKOlDkU/0.jpg)][video3D]
 
-///Insert Photos
+![3D 1][3D1]
+![3D 2][3D2]
+![3D 3][3D3]
 
 ### Ideas for the future
 I want to use the MagSafe puck to enable charging the phone while using it as a stand. Using the MagSafe also simplifies the design, as the use of magnet ensures we don’t’ need horizontal arms to support the phone’s weight.
