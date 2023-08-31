@@ -11,7 +11,6 @@ The specific file that I’m typing into right now is the **README.md** for this
 
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/desinv-202/wiki/3.0-Weekly-Submissions). They might look something like this: ###
 
-weeklyReport20230831.md
 ---
 # Weekly Report - Week of 08/31/2023 #
 This week I used the TDF Computational Design project files to get started with Rhino and Grasshopper. As someone with no experience using computational 3D modelling software this was a good starting point to explore the space and start using Laser Cutter and 3D printing tools in the Maker space.
@@ -22,8 +21,8 @@ Following the completion of the process, I made a note of where I wanted to take
 
 Complete Report is available here: [Weekly Report 1](weeklyReport20230831.md)
 
-![stand1][weekly-reports/img20230831/finalStand_1.png]
-![stand2][weekly-reports/img20230831/3D_1.png]
+![stand1](weekly-reports/img20230831/finalStand_1.png)
+![stand2](weekly-reports/img20230831/3D_1.png)
 
 
 
