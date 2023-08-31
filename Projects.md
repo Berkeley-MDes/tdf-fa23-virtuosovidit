@@ -113,7 +113,10 @@ This meant making the stand smaller, so that it could hold the smaller and large
 ### Ideas for the future
 I want to use the MagSafe puck to enable charging the phone while using it as a stand. Using the MagSafe also simplifies the design, as the use of magnet ensures we don’t’ need horizontal arms to support the phone’s weight.
 
-///Design Sketches
+![speculation 1][speculation1]
+![Speculation 2][speculation2]
+
+
 
 [grasshopper1]: weekly-reports/img20230831/Grasshopper_1.png
 [grasshopper2]: weekly-reports/img20230831/Grasshopper_2.png
@@ -143,6 +146,10 @@ I want to use the MagSafe puck to enable charging the phone while using it as a 
 [3D1]: weekly-reports/img20230831/3D_1.png
 [3D2]: weekly-reports/img20230831/3D_2.png
 [3D3]: weekly-reports/img20230831/3D_3.png
+
+
+[speculation1]: weekly-reports/img20230831/speculation_1.png
+[speculation2]: weekly-reports/img20230831/speculation_2.png
 
 [videoLaser]: https://www.youtube.com/watch?v=1GZ71lY4LRw
 [video3D]: https://www.youtube.com/watch?v=6rePAKOlDkU
