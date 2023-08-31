@@ -12,7 +12,7 @@ The specific file that I’m typing into right now is the **README.md** for this
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/desinv-202/wiki/3.0-Weekly-Submissions). They might look something like this: ###
 
 ---
-# Weekly Report - Week of 08/31/2023 #
+# [Weekly Report - Week of 08/31/2023](weeklyReport20230831.md) #
 This week I used the TDF Computational Design project files to get started with Rhino and Grasshopper. As someone with no experience using computational 3D modelling software this was a good starting point to explore the space and start using Laser Cutter and 3D printing tools in the Maker space.
 
 My Process: I started with the Grasshopper and Rhino Files, learning how to use the tools using the worked example. I then spent some time defining my project scope, i.e. defining what I wanted to achieve with the stand and how it’d be useful to someone using it. I fed my design calculations into the Grasshopper interface, and generated the files to cut. I then evaluated my first laser cut and made a note of changes that’d make the design better. I gave a second cut and after I was satisfied with the results, I moved on to the 3D model. For the 3D model I took the same design considerations to generate a 3D model that’d help me, then I 3D Printed the files.
