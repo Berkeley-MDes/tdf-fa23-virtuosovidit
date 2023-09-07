@@ -1,5 +1,21 @@
 # Vidit Bhargava
 ---
+
+# [Weekly Report - Week of 09/07/2023](weeklyReport20230907.md) #
+## New Computational Model:
+This week I used the Grasshopper and Rhino to develop a computational design model for a watch charger. In some ways, an extension of the Cell Phone stand project, the watch charger model designs a 3D Model of a charging stand that takes into account the size of a watch charger, its orientation and designs a stand around it.
+
+The goals for this project were to design and 3D print an Apple Watch charger that doubles up as a night stand for the watch.
+
+Accomplishments: I was able to create a Grasshopper Model and slice my 3D Asset (STL file) in Cura to 3D print them at the Makerspace.
+
+Complete Report is available here: [Weekly Report 2](weeklyReport20230907.md)
+
+<img width="200" alt="Laser cut Stand" src="https://raw.githubusercontent.com/Berkeley-MDes/tdf-fa23-virtuosovidit/main/weekly-reports/img20230907/remotePanel.jpg">
+<img width="200" alt="3D printed Stand" src="https://raw.githubusercontent.com/Berkeley-MDes/tdf-fa23-virtuosovidit/main/weekly-reports/img20230907/cura.jpg">
+
+---
+
 # [Weekly Report - Week of 08/31/2023](weeklyReport20230831.md) #
 This week I used the TDF Computational Design project files to get started with Rhino and Grasshopper. As someone with no experience using computational 3D modelling software this was a good starting point to explore the space and start using Laser Cutter and 3D printing tools in the Maker space.
 
