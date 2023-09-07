@@ -47,7 +47,10 @@ Now: I will now upload the files to a Prusa 3D printer at Jacobs and test the re
 
 I was able to create a Grasshopper Model and slice my 3D Asset (STL file) in Cura to 3D print them at the Makerspace.
 
-The Grasshopper file is available here: 
+The files:
+[Grasshopper File][grasshopperFile]
+[Baked 3D Geometry][rhinoFile]
+[STL File][stlFile]
 
 ### Future Ideas
 
@@ -61,3 +64,9 @@ After the completion of a basic Grasshopper Model, I hope to take my learnings t
 [cura]: weekly-reports/img20230907/cura.jpg
 [drawing]: weekly-reports/img20230907/drawing.jpg
 [rhino1]: weekly-reports/img20230907/rhino1.jpg
+
+[grasshopperFile]: weekly-reports/files20230709/WatchCharger.gh
+[rhinoFile]: weekly-reports/files20230709/BakedCharger.3dm
+[stlFile]: weekly-reports/files20230709/Charger.stl
+
+
