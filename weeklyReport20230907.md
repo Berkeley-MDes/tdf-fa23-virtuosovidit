@@ -12,36 +12,34 @@ Accomplishments: I was able to create a Grasshopper Model and slice my 3D Asset 
 ### Step 1: Designing the Watch Charger
  Before setting up Rhino and Grasshopper files, I spent sometime designing the watch charger. Most existing chargers in the market place the watch’s charging puck horizontally liked they’d place a phone, I wanted it to be more like a watch stand which places the watch in a way that it can act as a night stand that also shows time.
 
-!Photos of existing chargers
+![Existing Chargers][existingChargers]
 
 My Sketches:
-!Image of my sketches
-
-!Inspirations (MagSafe Duo, Apple Watch Box, and MagSafe Puck)
+![My Sketches][drawing]
 
 ### Step 2: Designing the Grasshopper System
 
 Once I had a design in mind, I started designing my charger in grasshopper. 
 
-!Grasshopper Image1
+![Grasshopper Setup][grasshopper1]
 
 I broke down my concept into simple geometrical objects i.e. Cubes, Spheres, and Cylinders. I inserted the objects in Grasshopper, performed the Boolean Operations.
 
-!Rhino image one
+![Rhino Preview][rhino1]
 
 With a design preview ready I went on define the parameterised values that I wanted the user to control, and added them to the Remote Panel.
 
-!Grasshopper Image 2
+![Grass Hopper 2][grasshopper2]
 
 I also added additional controls such as orientation of the charging puck.
 
-!Grasshopper Panel
+![RemotePanel 2][remotePanel]
 
 ### Step 3: Bake the files, Slice in Cura
 
 Once everything was ready, I baked the file, exported it to STL and sliced it in Cura.
 
-!Cura image
+![Cura][cura]
 
 Now: I will now upload the files to a Prusa 3D printer at Jacobs and test the resultant prototype on an actual Apple Watch.
 
@@ -54,3 +52,12 @@ The Grasshopper file is available here:
 ### Future Ideas
 
 After the completion of a basic Grasshopper Model, I hope to take my learnings to build a eyeglass gallery in grasshopper, that offers users the option to customise the Eyeglass model by selecting the frame type: “Supra, Rimless or Rimmed” , the lens type “Circular or Super Ellipse” and the standard eyeglass parameters “Temple Length, Bridge Measurement, Eye Width”.
+
+[existingChargers]: weekly-reports/img20230907/existingChargers.jpg
+[desiredOutcome]: weekly-reports/img20230907/desiredOutcome.jpg
+[grasshopper1]: weekly-reports/img20230907/grasshopper1.jpg
+[grasshopper2]: weekly-reports/img20230907/grasshopper2.jpg
+[remotePanel]: weekly-reports/img20230907/remotePanel.jpg
+[cura]: weekly-reports/img20230907/cura.jpg
+[drawing]: weekly-reports/img20230907/drawing.jpg
+[rhino1]: weekly-reports/img20230907/rhino1.jpg
