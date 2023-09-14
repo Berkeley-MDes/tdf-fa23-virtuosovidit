@@ -1,6 +1,6 @@
 # Vidit Bhargava
 ---
-# [Weekly Report - Week of 09/07/2023](weeklyReport20230907.md) #
+# [Weekly Report - Week of 09/14/2023](weeklyReport20230914.md) #
 ## Project 1: Customisable Eyewear Model using Computational Design
 This week I created a new Grasshopper model from scratch complete with remote panel controls, custom materials and modular components for Project 1.
 
