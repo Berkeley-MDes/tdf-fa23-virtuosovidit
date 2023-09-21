@@ -6,8 +6,8 @@ This week I setup the Photon 2 Microcontroller to connect to a WiFi and get its 
 
 Complete Report is available here: [Weekly Report 4](weeklyReport20230921.md)
 
-<img width="400" alt="Header" src="https://raw.githubusercontent.com/Berkeley-MDes/tdf-fa23-virtuosovidit/main/weekly-reports/img20230921/photon2/jpg">
-<img width="400" alt="Remote Panel" src="https://raw.githubusercontent.com/Berkeley-MDes/tdf-fa23-virtuosovidit/main/weekly-reports/img20230921/particle3.jpg">
+<img width="400" alt="Photon 2" src="https://raw.githubusercontent.com/Berkeley-MDes/tdf-fa23-virtuosovidit/main/weekly-reports/img20230921/photon2.jpg">
+<img width="400" alt="Code to get Mac Address" src="https://raw.githubusercontent.com/Berkeley-MDes/tdf-fa23-virtuosovidit/main/weekly-reports/img20230921/particle3.jpg">
 
 # [Weekly Report - Week of 09/14/2023](weeklyReport20230914.md) #
 ## Project 1: Customisable Eyewear Model using Computational Design
