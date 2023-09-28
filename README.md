@@ -1,5 +1,14 @@
 # Vidit Bhargava
 ---
+# [Weekly Report - Week of 09/27/2023](weeklyReport20230927.md) #
+## Setting up Photon2
+This week I picked the topics of interest for Project 2, for Technology Design Foundations.
+
+Complete Report is available here: [Weekly Report 5](weeklyReport20230927.md)
+
+<img width="400" alt="Selection Process" src="https://raw.githubusercontent.com/Berkeley-MDes/tdf-fa23-virtuosovidit/main/weekly-reports/img20230927/selection.jpg">
+
+
 # [Weekly Report - Week of 09/21/2023](weeklyReport20230921.md) #
 ## Setting up Photon2
 This week I setup the Photon 2 Microcontroller to connect to a WiFi and get its MAC address.
