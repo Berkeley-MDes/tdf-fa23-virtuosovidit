@@ -1,7 +1,7 @@
 # Vidit Bhargava
 ---
 # [Weekly Report - Week of 09/27/2023](weeklyReport20230927.md) #
-## Setting up Photon2
+## Selecting the topics for Project 2
 This week I picked the topics of interest for Project 2, for Technology Design Foundations.
 
 Complete Report is available here: [Weekly Report 5](weeklyReport20230927.md)
