@@ -14,4 +14,6 @@ Following that we worked on the components we would need to accomplish our goals
 **The result:**
 We had a sketch of our ideas and a spec sheet for what we want to build.
 
+![idea sketch][ideaSketch]
 
+[ideaSketch]: weekly-reports/img20231005/ideaSketch.jpg
