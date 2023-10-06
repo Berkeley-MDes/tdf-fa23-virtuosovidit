@@ -1,5 +1,14 @@
 # Vidit Bhargava
 ---
+# [Weekly Report - Week of 10/05/2023](weeklyReport20231005.md) #
+## Selecting the topics for Project 2
+This week the team worked on the ideation for the the Project 2.
+
+Complete Report is available here: [Weekly Report 6](weeklyReport20231005.md)
+
+<img width="400" alt="Selection Process" src="https://raw.githubusercontent.com/Berkeley-MDes/tdf-fa23-virtuosovidit/main/weekly-reports/img20231005/ideaSketch.jpg">
+
+
 # [Weekly Report - Week of 09/27/2023](weeklyReport20230927.md) #
 ## Selecting the topics for Project 2
 This week I picked the topics of interest for Project 2, for Technology Design Foundations.
