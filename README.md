@@ -2,7 +2,7 @@
 ---
 # [Weekly Report - Week of 11/16/2023](weeklyReport20231116.md) #
 ## Ideating on topics for Project 4
-This week the team worked on the ideation for the the Project 2.
+This week the team worked on the ideation for the the Project 4.
 
 Complete Report is available here: [Weekly Report](weeklyReport20231116.md)
 
