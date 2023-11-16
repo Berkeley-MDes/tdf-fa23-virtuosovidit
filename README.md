@@ -1,5 +1,14 @@
 # Vidit Bhargava
 ---
+# [Weekly Report - Week of 11/16/2023](weeklyReport20231116.md) #
+## Ideating on topics for Project 4
+This week the team worked on the ideation for the the Project 2.
+
+Complete Report is available here: [Weekly Report](weeklyReport20231116.md)
+
+<img width="400" alt="Selection Process" src="https://raw.githubusercontent.com/Berkeley-MDes/tdf-fa23-virtuosovidit/main/weekly-reports/img20231116/designPractice.jpg">
+
+
 # [Weekly Report - Week of 10/05/2023](weeklyReport20231005.md) #
 ## Selecting the topics for Project 2
 This week the team worked on the ideation for the the Project 2.
