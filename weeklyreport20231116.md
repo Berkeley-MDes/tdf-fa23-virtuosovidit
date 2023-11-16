@@ -16,7 +16,7 @@ This week I ideated on my project idea for the 4th Project in TDF, then showcase
 ![Design Sketch 2][designProcess1]
 ![Design Sketch 3][designProcess2]
 
-[ideaBoard]: weekly-reports/img20231116/ideaboard.jpg
+[ideaBoard]: weekly-reports/img20231116/ideaBoard.jpg
 [design]: weekly-reports/img20231116/design.jpg
 [designProcess1]: weekly-reports/img20231116/designProcess1.jpg
 [designProcess2]: weekly-reports/img20231116/designProcess2.jpg
